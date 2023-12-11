@@ -6,7 +6,7 @@ Whether you're a film enthusiast or just looking for recommendations, this app p
 ## Features and Purpose 
 
 - **Submit Reviews:** Share your opinions on movies by submitting reviews.
-- **Discover Movies:** Explore a collection of movies and read reviews from other users.
+- **Movies Watched:** Explore a collection of movie reviews a hypothetical user has watched.
 - **User-Friendly Interface:** The intuitive design makes it easy for users to navigate and interact with the application.
 - **Responsive Design:** Enjoy a seamless experience. 
 
@@ -17,7 +17,7 @@ Whether you're a film enthusiast or just looking for recommendations, this app p
 
 # Technical Overview
 
-The Movie Review App is crafted with a focus on modern web development standards, utilizing key technologies to deliver a seamless and visually appealing user experience.
+The Movie Review App is crafted to focus on modern web development standards, utilizing key technologies to deliver a seamless and visually appealing user experience.
 
 ## Technologies Used
 
@@ -30,10 +30,11 @@ The Movie Review App is crafted with a focus on modern web development standards
 3. **CSS for Styling and GUI Enhancement:**
    Cascading Style Sheets (CSS) have been employed to style the application and enhance its graphical user interface (GUI). This includes designing a visually pleasing layout, optimizing user experience, and ensuring a cohesive and professional presentation.
 
+
  ## Hypothetical future app features 
-  1. Connect application to database to store all movie reviews. 
-  2. Add a comments form for additonal movie details.
-  3. Share reviews with other users using databse Auth users. 
+  1. Connect the application to the database to store all movie reviews. 
+  2. Add a comments form for additional movie details.
+  3. Share reviews with other users using authentication system. 
 
 
 1. Clone the repository.
