@@ -5,7 +5,7 @@ document.getElementById("rating").addEventListener("input", function () {
 
 // Validate email function
 function isValidEmail(email) {
-  // Regular expression for a simple email validation
+  // Regular expression to help with email validation
   const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
   return emailRegex.test(email);
 }
@@ -44,7 +44,6 @@ function clearForm() {
 
 // Modified submitForm function to add review to table
 function submitForm() {
-  // Your existing form submission logic
 
   // Validate email before submitting
   const emailInput = document.getElementById("studioEmail");
