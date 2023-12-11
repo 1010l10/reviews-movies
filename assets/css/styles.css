@@ -1,0 +1,76 @@
+/* Styling forms and labels */
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+h1 {
+  text-align: center;
+}
+
+#movieForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  margin: auto;
+}
+
+.form-group {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-bottom: 16px;
+}
+
+label {
+  width: 150px;
+  margin-right: 16px;
+}
+
+input, select {
+  flex: 1; 
+  padding: 8px;
+  box-sizing: border-box;
+}
+
+button {
+  background-color: #4c89af;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #4553a0;
+}
+
+.review-output {
+  display: none;
+  margin-top: 20px;
+}
+
+/* Styling for output table  */
+#reviewTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+#reviewTable th,
+#reviewTable td {
+  padding: 8px;
+  text-align: left;
+}
+
+#reviewTable th {
+  background-color: #4c89af;
+  color: white;
+}
+
+#reviewTable td:nth-child(1) { width: 25%; }
+#reviewTable td:nth-child(2) { width: 25%; }
+#reviewTable td:nth-child(3) { width: 15%; }
+#reviewTable td:nth-child(4) { width: 20%; }
+#reviewTable td:nth-child(5) { width: 15%; }
