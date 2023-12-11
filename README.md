@@ -10,11 +10,6 @@ Whether you're a film enthusiast or just looking for recommendations, this app p
 - **User-Friendly Interface:** The intuitive design makes it easy for users to navigate and interact with the application.
 - **Responsive Design:** Enjoy a seamless experience. 
 
-## How to Use
-
-1. **Submit a Review:** Answer the following movie questions using forms. 
-
-
 # Technical Overview
 
 The Movie Review App is crafted to focus on modern web development standards, utilizing key technologies to deliver a seamless and visually appealing user experience.
@@ -32,7 +27,7 @@ The Movie Review App is crafted to focus on modern web development standards, ut
 
 
  ## Hypothetical future app features 
-  1. Connect the application to the database to store all movie reviews. 
+  1. Connect the application to a database such as MongoDB to store all movie reviews. 
   2. Add a comments form for additional movie details.
   3. Share reviews with other users using authentication system. 
 
