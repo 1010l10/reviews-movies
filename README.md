@@ -53,6 +53,7 @@ The Movie Review App is crafted to focus on modern web development standards, ut
 ## Deployment 
 I have used Node.js and Google Firebase tools to deploy web-app.
 click the following link to test and easy access to web-app 
+
 [Movie Reviews](https://movie-reviews-56b94.web.app/)
 
 
