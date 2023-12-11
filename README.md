@@ -38,4 +38,5 @@ The Movie Review App is crafted with a focus on modern web development standards
 
 1. Clone the repository.
    ```bash
+   https://github.com/1010l10/reviews-movies.git
 
